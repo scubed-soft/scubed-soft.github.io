@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Scubed Software]]></title>
+  <link href="http://www.scubed-soft.com/atom.xml" rel="self"/>
+  <link href="http://www.scubed-soft.com/"/>
+  <updated>2014-05-19T00:04:21-04:00</updated>
+  <id>http://www.scubed-soft.com/</id>
+  <author>
+    <name><![CDATA[Scubed Software]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Scubed Software Is Visiting New York!]]></title>
+    <link href="http://www.scubed-soft.com/blog/2014/05/18/visiting-nyc/"/>
+    <updated>2014-05-18T10:20:12-04:00</updated>
+    <id>http://www.scubed-soft.com/blog/2014/05/18/visiting-nyc</id>
+    <content type="html"><![CDATA[<p>
+  From May 18 to July 14, I will be visiting New York City (and
+  a few other locations)!
+</p>
+<p>
+  During this period, I will be available for
+  some part-time work. If you&#8217;re looking for some technical expertise,
+  particularly in Ruby on Rails, reach out to me at
+  <a href='mailto:hubert@scubedsoft.com'>hubert@scubedsoft.com</a>.
+</p>
+]]></content>
+  </entry>
+  
+</feed>
