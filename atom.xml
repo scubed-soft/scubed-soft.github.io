@@ -4,7 +4,7 @@
   <title><![CDATA[Scubed Software]]></title>
   <link href="http://www.scubedsoft.com/atom.xml" rel="self"/>
   <link href="http://www.scubedsoft.com/"/>
-  <updated>2014-05-23T10:00:45-04:00</updated>
+  <updated>2014-05-23T15:00:53-04:00</updated>
   <id>http://www.scubedsoft.com/</id>
   <author>
     <name><![CDATA[Scubed Software]]></name>
@@ -54,6 +54,28 @@
           Squeeky floors could be distracting. Can probably be mitigated with
           headphones
         </li>
+      </ul>
+      <br />
+    </section>
+  </li>
+  <li>
+    <p>
+      <a href='http://makeshiftsociety.com/'>Makeshift Society</a>
+    </p>
+    <section>
+      <h4>Likes</h4>
+      <ul>
+        <li>Huge windows with lots of natural lighting</li>
+        <li>Basement level with kitchen</li>
+        <li>Whiteboards have a wooden finish</li>
+      </ul>
+      <br />
+    </section>
+    <section>
+      <h4>Dislikes</h4>
+      <ul>
+        <li>Located in Brooklyn (less convenient for me)</li>
+        <li>Large, open space can be loud/echoey</li>
       </ul>
       <br />
     </section>
