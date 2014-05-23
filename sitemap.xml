@@ -1,19 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://www.scubed-soft.com/blog/2014/05/18/visiting-nyc/</loc>
+        <loc>http://www.scubedsoft.com/blog/2014/05/18/visiting-nyc/</loc>
         <lastmod>2014-05-18T12:46:02-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.scubed-soft.com/blog/archives/</loc>
-        <lastmod>2014-05-18T12:46:02-04:00</lastmod>
+        <loc>http://www.scubedsoft.com/blog/2014/05/22/coworking-spaces-in-nyc/</loc>
+        <lastmod>2014-05-23T10:00:14-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.scubed-soft.com/</loc>
-        <lastmod>2014-05-18T12:46:02-04:00</lastmod>
+        <loc>http://www.scubedsoft.com/blog/archives/</loc>
+        <lastmod>2014-05-23T10:00:14-04:00</lastmod>
     </url>
     <url>
-        <loc>http://www.scubed-soft.com/robots.txt</loc>
+        <loc>http://www.scubedsoft.com/</loc>
+        <lastmod>2014-05-23T10:00:14-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.scubedsoft.com/robots.txt</loc>
         <lastmod>2014-05-18T12:31:26-04:00</lastmod>
     </url>
 </urlset>

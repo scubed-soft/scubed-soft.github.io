@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Scubed Software]]></title>
-  <link href="http://www.scubed-soft.com/atom.xml" rel="self"/>
-  <link href="http://www.scubed-soft.com/"/>
-  <updated>2014-05-19T08:26:29-04:00</updated>
-  <id>http://www.scubed-soft.com/</id>
+  <link href="http://www.scubedsoft.com/atom.xml" rel="self"/>
+  <link href="http://www.scubedsoft.com/"/>
+  <updated>2014-05-23T10:00:45-04:00</updated>
+  <id>http://www.scubedsoft.com/</id>
   <author>
     <name><![CDATA[Scubed Software]]></name>
     
@@ -14,10 +14,129 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Coworking Spaces in NYC]]></title>
+    <link href="http://www.scubedsoft.com/blog/2014/05/22/coworking-spaces-in-nyc/"/>
+    <updated>2014-05-22T10:04:32-04:00</updated>
+    <id>http://www.scubedsoft.com/blog/2014/05/22/coworking-spaces-in-nyc</id>
+    <content type="html"><![CDATA[<p>
+  The other day, I visited several co-working spaces in New York City based on
+  <a href='http://thenextweb.com/insider/2011/08/17/the-5-coolest-coworking-spaces-in-new-york-city/'>this article</a>
+  (which I now realize is from 2011). Here&#8217;s my take.
+</p>
+<ol>
+  <li>
+    <p>
+      <a href='http://nwc.co/'>New Work City</a>
+    </p>
+    <section>
+      <h4>Likes</h4>
+      <ul>
+        <li>
+          Free equipment to borrow! Spare monitors + adapters and other
+          electronic miscellany.
+        </li>
+        <li>A good-sized, well-stocked kitchen</li>
+        <li>
+          A couple &#8220;phone booth&#8221; rooms for phone calls. The rooms aren&#8217;t very
+          soundproof though.
+        </li>
+        <li>
+          Essentially no closing time. If you want to stay late, the staff can
+          teach you how to lock up.
+        </li>
+      </ul>
+      <br />
+    </section>
+    <section>
+      <h4>Dislikes</h4>
+      <ul>
+        <li>
+          Squeeky floors could be distracting. Can probably be mitigated with
+          headphones
+        </li>
+      </ul>
+      <br />
+    </section>
+  </li>
+  <li>
+    <p>
+      <a href='http://fueled.com/coworking-space-nyc/'>Fueled Collective</a>
+    </p>
+    <p>
+      I wasn&#8217;t able to get a tour per-se, but I did get to look around the
+      space.
+    </p>
+    <section>
+      <h4>Likes</h4>
+      <ul>
+        <li>Huge space with lovely decor</li>
+        <li>24-hour access</li>
+      </ul>
+      <br />
+    </section>
+    <section>
+      <h4>Dislikes</h4>
+      <ul>
+        <li>3-month minimum</li>
+      </ul>
+      <br />
+    </section>
+  </li>
+  <li>
+    <p>
+      <a href='https://generalassemb.ly/'>General Assembly</a>
+    </p>
+    <section>
+      <h4>Likes</h4>
+      <ul>
+        <li>Wide open space and separate wings with cubicle like spaces</li>
+        <li>Electronic signs indicate when conference rooms are booked</li>
+      </ul>
+      <br />
+    </section>
+    <section>
+      <h4>Dislikes</h4>
+      <ul>
+        <li>No longer a coworking space as of January 2014.</li>
+      </ul>
+      <br />
+    </section>
+  </li>
+  <li>
+    <p>
+      <a href='http://www.wework.com/'>WeWork Labs</a>
+    </p>
+    <p>
+      They were short on staff when I visited, so were unable to give me a
+      tour. I&#8217;ll update this post when I get a chance to visit the
+      space.
+      <br />
+    </p>
+  </li>
+  <li>
+    <p>
+      <a href='http://www.projectivenyc.com/'>Projective Space</a>
+    </p>
+    <p>
+      No one was home to say hello, so I didn&#8217;t get a chance to see the space.
+      Perhaps another day.
+    </p>
+  </li>
+</ol>
+<h3>Final Thoughts</h3>
+<p>
+  One thing I noticed is that these coworking spaces don&#8217;t seem to open on the
+  weekends. Perhaps that&#8217;s just a hint to quit working and get out to have some
+  fun!
+</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Scubed Software Is Visiting New York!]]></title>
-    <link href="http://www.scubed-soft.com/blog/2014/05/18/visiting-nyc/"/>
+    <link href="http://www.scubedsoft.com/blog/2014/05/18/visiting-nyc/"/>
     <updated>2014-05-18T10:20:12-04:00</updated>
-    <id>http://www.scubed-soft.com/blog/2014/05/18/visiting-nyc</id>
+    <id>http://www.scubedsoft.com/blog/2014/05/18/visiting-nyc</id>
     <content type="html"><![CDATA[<p>
   From May 18 to July 14, I will be visiting New York City (and
   a few other locations)!
