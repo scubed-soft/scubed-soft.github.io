@@ -4,7 +4,7 @@
   <title><![CDATA[Scubed Software]]></title>
   <link href="http://www.scubedsoft.com/atom.xml" rel="self"/>
   <link href="http://www.scubedsoft.com/"/>
-  <updated>2014-06-17T11:09:59-04:00</updated>
+  <updated>2014-06-17T11:30:38-04:00</updated>
   <id>http://www.scubedsoft.com/</id>
   <author>
     <name><![CDATA[Scubed Software]]></name>
@@ -12,14 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[June 2014 NYC Tech Breakfast]]></title>
-    <link href="http://www.scubedsoft.com/blog/2014/06/17/june-2014-nyc-tech-breakfast/"/>
-    <updated>2014-06-17T11:09:59-04:00</updated>
-    <id>http://www.scubedsoft.com/blog/2014/06/17/june-2014-nyc-tech-breakfast</id>
-    <content type="html"><![CDATA[]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Coworking Spaces in NYC]]></title>
