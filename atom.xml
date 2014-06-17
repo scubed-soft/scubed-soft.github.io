@@ -4,7 +4,7 @@
   <title><![CDATA[Scubed Software]]></title>
   <link href="http://www.scubedsoft.com/atom.xml" rel="self"/>
   <link href="http://www.scubedsoft.com/"/>
-  <updated>2014-06-17T15:22:37-04:00</updated>
+  <updated>2014-06-17T15:44:02-04:00</updated>
   <id>http://www.scubedsoft.com/</id>
   <author>
     <name><![CDATA[Hubert Lee]]></name>
@@ -19,7 +19,7 @@
     <updated>2014-06-17T11:09:59-04:00</updated>
     <id>http://www.scubedsoft.com/blog/2014/06/17/june-2014-nyc-tech-breakfast</id>
     <content type="html"><![CDATA[<p>
-  <img src='images/posts/2014-06-17-secondmic.jpg' title='SecondMic presenting at NYC Tech Breakfast' />
+  <img src='http://www.scubedsoft.com/images/posts/2014-06-17-secondmic.jpg' title='SecondMic presenting at NYC Tech Breakfast' />
 </p>
 <p>
   This morning, I attended my second
