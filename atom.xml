@@ -4,7 +4,7 @@
   <title><![CDATA[Scubed Software]]></title>
   <link href="http://www.scubedsoft.com/atom.xml" rel="self"/>
   <link href="http://www.scubedsoft.com/"/>
-  <updated>2014-07-07T11:48:24-04:00</updated>
+  <updated>2014-07-07T11:51:20-04:00</updated>
   <id>http://www.scubedsoft.com/</id>
   <author>
     <name><![CDATA[Hubert Lee]]></name>
@@ -12,6 +12,116 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[July 2014 New York Tech Meetup (Part 1)]]></title>
+    <link href="http://www.scubedsoft.com/blog/2014/07/03/july-2014-nytm-1/"/>
+    <updated>2014-07-03T15:40:17-04:00</updated>
+    <id>http://www.scubedsoft.com/blog/2014/07/03/july-2014-nytm-1</id>
+    <content type="html"><![CDATA[<p>
+  <img src='http://www.scubedsoft.com/images/posts/2014-07-01-nytm.jpg' title='Welcome to NYTM' />
+</p>
+<p>
+  The other day, I attended July&#8217;s
+  <a href='http://www.meetup.com/ny-tech/'>New York Tech Meetup</a>
+  (NYTM). The meetup was split into several segments: two groups of three
+  startups doing a short 3-minute demo of their products followed by Q&A, a
+  &#8220;Hack of the Month&#8221; showcase, and finally three longer format demos. In this
+  post, I talk about the startups that demoed their products in the first
+  segment.
+  <!-- more -->
+</p>
+<h2>
+  <a href='http://www.blippar.com/' id='blippar'>Blippar</a>
+</h2>
+<p>
+  Blippar wowed the crowd in the first segment with their demonstration of an
+  iOS-based
+  <a href='http://en.wikipedia.org/wiki/Augmented_reality'>augmented reality</a>
+  app for consumer products. As with most augmented reality products, the app
+  first scans a real-life object using the device&#8217;s camera, then overlays
+  computer-generated images on the screen in order to alter the real world as
+  seen through the device. The presenter used an iPad to show the app rendering
+  a 3D recipe book on the back of a ketchup bottle and also demoed trying out
+  different colors of nail polish on a picture of her fingers as well. With the
+  increasing pervasiveness of powerful mobile devices like the iPad, this could
+  become an effective channel for brands to engage their customers. I believe
+  their greatest challenge lies in increasing awareness about the technology and
+  encouraging adoption amongst consumers.
+</p>
+<h3>Q&A (Questions and answers paraphrased)</h3>
+<p>
+  <dl>
+    <dt>How do consumers know which products to scan with Blippar?</dt>
+    <dd>
+      We currently rely on product labeling, but hopefully soon you will be
+      able to scan anything and everything.
+    </dd>
+    <dt>
+      Do you have any
+      <a href='http://en.wikipedia.org/wiki/Open-source_software'>OSS</a>
+      technology?
+    </dt>
+    <dd>
+      Our codebase is proprietary, but we provide the Blip Builder for
+      third-party developers to use.
+    </dd>
+  </dl>
+</p>
+<h2>
+  <a href='http://www.vosmap.com/' id='vosmap'>Vosmap</a>
+</h2>
+<p>
+  Vosmap demoed their 3D virtual tour/interior mapping technology. They have
+  partnered with Google to provide a Google Street View experience (officially
+  known as Google Maps Business View) for retail outlets like restaurants, auto
+  dealerships, and department stores. Vosmap does the actual work of taking
+  panoramic photos, stitching them together, and then providing the media to
+  Google.
+</p>
+<h3>Q&A (Questions and answers paraphrased)</h3>
+<p>
+  <dl>
+    <dt>How often do you update the photos?</dt>
+    <dd>
+      It is up to the businesses to decide. Auto dealers, for example, tend to
+      update more frequently to ensure they have photos of the latest models in
+      the lot online.
+    </dd>
+    <dt>
+      How do you take the images?
+    </dt>
+    <dd>
+      DSLRs mounted on tripods.
+    </dd>
+  </dl>
+</p>
+<h2>
+  <a href='https://www.knozen.com/' id='knozen'>Knozen</a>
+</h2>
+<p>
+  Knozen demoed a co-worker personality rating app for iOS intended to be used
+  in the workplace. Employees are presented with two of their colleagues to
+  compare and a question such as &#8220;Who is more analytical?&#8221;. Employees can rate
+  their colleagues on a variety of different scales and can see their own
+  personal ratings based on their colleagues&#8217; opinions.
+</p>
+<h3>Q&A (Questions and answers paraphrased)</h3>
+<p>
+  <dl>
+    <dt>
+      Are the questions and personality analyses from this app based on any
+      research?
+    </dt>
+    <dd>
+      We base our analyses on the work of
+      <a href='http://en.wikipedia.org/wiki/Carl_Jung'>Carl Jung</a>
+      and others.
+    </dd>
+  </dl>
+</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[June 2014 NYC Tech Breakfast]]></title>
