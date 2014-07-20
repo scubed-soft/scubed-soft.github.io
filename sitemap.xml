@@ -2,30 +2,34 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://www.scubedsoft.com/blog/2014/05/18/visiting-nyc/</loc>
-        <lastmod>2014-05-18T12:46:02-04:00</lastmod>
+        <lastmod>2014-05-19T00:46:02+08:00</lastmod>
     </url>
     <url>
         <loc>http://www.scubedsoft.com/blog/2014/05/22/coworking-spaces-in-nyc/</loc>
-        <lastmod>2014-06-17T11:39:23-04:00</lastmod>
+        <lastmod>2014-06-17T23:39:23+08:00</lastmod>
     </url>
     <url>
         <loc>http://www.scubedsoft.com/blog/2014/06/17/june-2014-nyc-tech-breakfast/</loc>
-        <lastmod>2014-06-17T15:43:26-04:00</lastmod>
+        <lastmod>2014-06-18T03:43:26+08:00</lastmod>
     </url>
     <url>
-        <loc>http://www.scubedsoft.com/blog/2014/07/03/july-2014-nytm-1/</loc>
-        <lastmod>2014-07-07T11:51:03-04:00</lastmod>
+        <loc>http://www.scubedsoft.com/blog/2014/07/04/july-2014-nytm-1/</loc>
+        <lastmod>2014-07-15T09:27:52+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.scubedsoft.com/blog/2014/07/15/july-2014-nytm-2/</loc>
+        <lastmod>2014-07-21T07:28:45+08:00</lastmod>
     </url>
     <url>
         <loc>http://www.scubedsoft.com/blog/archives/</loc>
-        <lastmod>2014-07-07T11:51:03-04:00</lastmod>
+        <lastmod>2014-07-21T07:28:45+08:00</lastmod>
     </url>
     <url>
         <loc>http://www.scubedsoft.com/</loc>
-        <lastmod>2014-07-07T11:51:03-04:00</lastmod>
+        <lastmod>2014-07-21T07:28:45+08:00</lastmod>
     </url>
     <url>
         <loc>http://www.scubedsoft.com/robots.txt</loc>
-        <lastmod>2014-05-18T12:31:26-04:00</lastmod>
+        <lastmod>2014-05-19T00:31:26+08:00</lastmod>
     </url>
 </urlset>

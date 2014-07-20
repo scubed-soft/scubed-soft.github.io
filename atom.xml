@@ -4,7 +4,7 @@
   <title><![CDATA[Scubed Software]]></title>
   <link href="http://www.scubedsoft.com/atom.xml" rel="self"/>
   <link href="http://www.scubedsoft.com/"/>
-  <updated>2014-07-07T11:52:15-04:00</updated>
+  <updated>2014-07-21T07:30:34+08:00</updated>
   <id>http://www.scubedsoft.com/</id>
   <author>
     <name><![CDATA[Hubert Lee]]></name>
@@ -14,10 +14,130 @@
 
   
   <entry>
+    <title type="html"><![CDATA[July 2014 New York Tech Meetup (Part 2)]]></title>
+    <link href="http://www.scubedsoft.com/blog/2014/07/15/july-2014-nytm-2/"/>
+    <updated>2014-07-15T09:11:23+08:00</updated>
+    <id>http://www.scubedsoft.com/blog/2014/07/15/july-2014-nytm-2</id>
+    <content type="html"><![CDATA[<p>
+  <img src='http://www.scubedsoft.com/images/posts/2014-07-01-nytm.jpg' title='Welcome to NYTM' />
+</p>
+<p>
+  In
+  <a href='http://www.scubedsoft.com/blog/2014/07/03/july-2014-nytm-1/'>part one</a>
+  of this series, I described the startups that presented in the first segment of
+  July&#8217;s
+  <a href='http://www.meetup.com/ny-tech/'>New York Tech Meetup</a>:
+  <a href='http://www.scubedsoft.com/blog/2014/07/03/july-2014-nytm-1/#blippar'>augmented reality for consumer products</a>,
+  <a href='http://www.scubedsoft.com/blog/2014/07/03/july-2014-nytm-1/#vosmap'>Google street view for retailers</a>,
+  and
+  <a href='http://www.scubedsoft.com/blog/2014/07/03/july-2014-nytm-1/#knozen'>co-worker personality rating</a>.
+  This post will discuss the three startups that presented in the second segment.
+  <!-- more -->
+</p>
+<h2>
+  <a href='http://www.shoppable.com/' id='shoppable'>Shoppable</a>
+</h2>
+<p>
+  <a href='http://www.72lux.com/'>72Lux</a>
+  demonstrated Shoppable, what they described as a licensable marketplace.
+  The Shoppable platform provides a so-called universal checkout
+  API as well as a universal wishlist API intended for online publishers to
+  enable their readership to seamlessly purchase products from different retailers
+  directly on the publisher&#8217;s website. For example,
+  <a href='http://time.com/'>Time.com</a>
+  might publish an article about a new product from
+  <a href='http://www.sephora.com/'>Sephora</a>.
+  Interested readers could then immediately purchase that product right from
+  the Time.com website. Alternatively, readers could also
+  save the product in their wishlist and later complete their purchase from
+  Time.com or any other publisher using the Shoppable API. Finally, consumers
+  could also visit the Shoppable website to purchase products directly from various
+  retailers.
+</p>
+<h3>Q&A (paraphrased)</h3>
+<p>
+  <dl>
+    <dt>Is it possible to price compare against other e-commerce sites?</dt>
+    <dd>
+      Yes, but only with other websites that have integrated with the Shoppable
+      platform.
+    </dd>
+    <dt>
+      How do you resolve conflicts (e.g. price differences) between competitors
+      on your platform?
+    </dt>
+    <dd>
+      It is ultimately a business decision for the retailers themselves.
+    </dd>
+  </dl>
+</p>
+<h2>
+  <a href='http://www.electricobjects.com/' id='electricobjects'>Electric Objects</a>
+</h2>
+<p>
+  Electric Objects demonstrated their prototype of a digital &#8220;photoframe&#8221;
+  integrated with their website, a platform for managing the content that appears
+  on the photoframe itself. The photoframe they demoed was a 23-inch IPS display
+  running a customized build of Android. Unlike traditional photoframes which
+  display only static images, their photoframe can render animations as well.
+  Their intention in building this technology
+  is to provide users with a way to experience the digital art found across the
+  internet in a real-world setting. They have also begun an artist-in-residence
+  program to produce artwork especially for their photoframe.
+</p>
+<h3>Q&A (paraphrased)</h3>
+<p>
+  <dl>
+    <dt>How do you address the problem of copyrights?</dt>
+    <dd>
+      We consider the display of artwork with our technology to be within the
+      bounds of fair use.
+    </dd>
+    <dt>How much power does the monitor consume?</dt>
+    <dd>No more than an incandescent lightbulb.</dd>
+    <dt>What kind of material is used for the photoframe&#8217;s case?</dt>
+    <dd>
+      Currently it is plastic, but we will also provide an option for a wooden
+      case.
+    </dd>
+  </dl>
+</p>
+<h2>
+  <a href='http://www.amicushq.com/post' id='amicus'>Amicus</a>
+</h2>
+<p>
+  Amicus presented a service that allows non-profits to raise awareness, funds,
+  and increase engagement amongst their supporters. This service allows users to
+  send physical postcards to their friends to encourage them to join the cause.
+  The postcards can be customized to include a personalized message from the sender
+  and different images provided by the non-profit. One unique aspect of the service
+  is that users need not enter the recipient&#8217;s address: this information is gleaned
+  from correlating the recipient&#8217;s Facebook profile with publicly-available sources
+  such as voter registration records.
+</p>
+<h3>Q&A (paraphrased)</h3>
+<p>
+  <dl>
+    <dt>Is it possible for users to input an address for recipients?</dt>
+    <dd>
+      No. For now it is only possible to send postcards to recipients whose
+      addresses are available. We found that allowing users to add addresses
+      for recipients suffered from
+      <a href='http://en.wikipedia.org/wiki/Decision_fatigue'>decision fatigue</a>
+      and would not ultimately send the postcard.
+    </dd>
+    <dt>How do you ensure that the recipient&#8217;s address is correct?</dt>
+    <dd>We partner with data providers to ensure correctness of addresses.</dd>
+  </dl>
+</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[July 2014 New York Tech Meetup (Part 1)]]></title>
-    <link href="http://www.scubedsoft.com/blog/2014/07/03/july-2014-nytm-1/"/>
-    <updated>2014-07-03T15:40:17-04:00</updated>
-    <id>http://www.scubedsoft.com/blog/2014/07/03/july-2014-nytm-1</id>
+    <link href="http://www.scubedsoft.com/blog/2014/07/04/july-2014-nytm-1/"/>
+    <updated>2014-07-04T03:40:17+08:00</updated>
+    <id>http://www.scubedsoft.com/blog/2014/07/04/july-2014-nytm-1</id>
     <content type="html"><![CDATA[<p>
   <img src='http://www.scubedsoft.com/images/posts/2014-07-01-nytm.jpg' title='Welcome to NYTM' />
 </p>
@@ -126,7 +246,7 @@
   <entry>
     <title type="html"><![CDATA[June 2014 NYC Tech Breakfast]]></title>
     <link href="http://www.scubedsoft.com/blog/2014/06/17/june-2014-nyc-tech-breakfast/"/>
-    <updated>2014-06-17T11:09:59-04:00</updated>
+    <updated>2014-06-17T23:09:59+08:00</updated>
     <id>http://www.scubedsoft.com/blog/2014/06/17/june-2014-nyc-tech-breakfast</id>
     <content type="html"><![CDATA[<p>
   <img src='http://www.scubedsoft.com/images/posts/2014-06-17-secondmic.jpg' title='SecondMic presenting at NYC Tech Breakfast' />
@@ -254,7 +374,7 @@
   <entry>
     <title type="html"><![CDATA[Coworking Spaces in NYC]]></title>
     <link href="http://www.scubedsoft.com/blog/2014/05/22/coworking-spaces-in-nyc/"/>
-    <updated>2014-05-22T10:04:32-04:00</updated>
+    <updated>2014-05-22T22:04:32+08:00</updated>
     <id>http://www.scubedsoft.com/blog/2014/05/22/coworking-spaces-in-nyc</id>
     <content type="html"><![CDATA[<p>
   The other day, I visited several co-working spaces in New York City based on
@@ -441,7 +561,7 @@
   <entry>
     <title type="html"><![CDATA[Scubed Software Is Visiting New York!]]></title>
     <link href="http://www.scubedsoft.com/blog/2014/05/18/visiting-nyc/"/>
-    <updated>2014-05-18T10:20:12-04:00</updated>
+    <updated>2014-05-18T22:20:12+08:00</updated>
     <id>http://www.scubedsoft.com/blog/2014/05/18/visiting-nyc</id>
     <content type="html"><![CDATA[<p>
   From May 18 to July 14, I will be visiting New York City (and
