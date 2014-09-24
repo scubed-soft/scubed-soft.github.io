@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/hubert
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://scubedsoft.com
+  * I am hubert (https://keybase.io/hubert) on keybase.
+  * I have a public key with fingerprint 2310 B349 4222 1917 4DB5  AA20 5073 B180 82E5 3B12
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.6.2"
+        },
+        "key": {
+            "fingerprint": "2310b349422219174db5aa205073b18082e53b12",
+            "host": "keybase.io",
+            "key_id": "5073B18082E53B12",
+            "uid": "70b54b408247dd57100650e4bad03e00",
+            "username": "hubert"
+        },
+        "merkle_root": {
+            "ctime": 1411516651,
+            "hash": "8f6abd57e8919ff232f6a7d537ca6c271fcf5d4fe44297b9caaeac0f1fa6551b5b4844bf1eb0d38a94a897ec7c51fbad4160045a73851769ce721f2ef6b55533",
+            "seqno": 58671
+        },
+        "service": {
+            "hostname": "scubedsoft.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1411516696,
+    "expire_in": 157680000,
+    "prev": "081085cba0c1ce1ff5d2773dba5381e5d85db527aa03cd7c61f5d29f422ee508",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFdkntsFEUcx++uQFq0Xq0FIanQLhAoluvM7s4+Dm19gYVC0wd4hWCa2d3ZssLd
+Xnevd61YOSFgaVNEC6apgZYKCQlUlKBSCjWExGgLxlMJhSpQS40CRyhviQV3K8bH
+/PWbmc/v8f39fluSExwuZ5H5SXTd0NxUZ+9vkmMJlTRpDSXpSg3lXUPJqzUSCNlW
+APsJ5aVWkRoJm8Sj6RkBXSGe18yMh0w2FSaGqekBiwIezkNTtdk2bjurWqCCGEFD
+s2NRNAOBxLAiS9M0FCHPKhLCmAYI8IwEBSDQBFkGbYVcqZuh/2SlRmOWa4r1avMv
+jPLzkGXYfNXoBw8kxEqs9cHyioJ4CACHAGElrACGAGCDJjEeSlpZJREjZFfrJ8aq
+1aTc0PVRyXJIswHIQoggxyFo1YPNlZaLoHJYsgITQYSiqtIMbT3wCmJ4GXMyzUNV
+VpHCqoRlaZGXRBljgmWgQhVzCEEJSazAspIKiQQURsAiiwWRJzIvI6haVbKQA4BF
+mGcEBHlOlAlPQ5UmKichhBjGEmCSyoBOeZHA8bDWvhphTSZ22XbPHkozZUubYupq
+yCPrfssraOghXdZX27JDoaDXVh2qCdpshEjl5r6/wpRLWkCxZvbvodpZ/tcRkcum
+SHVQM0i5ZhOI5wRgHTsPCdt7IEAgIFnCQIYygarVFJrnGUXCiBEgQYqArNnTPMaA
+kRVe5qBNiKq1GYQgIPyjk7HqxBW2JK0igENVBqFqN7nSxzicLse4sS57ax3jk1L+
+XuW0ve6RtBNR1WUuvJtf42lWlj9Zmcd39R1Mnnlo5rSbEVJX/MHEirL0vfT4Ax3D
+PfFS7M+9cy1zGzMIPO6m1KcP9dzrzCoc2vXylembxWVtnw73NV8AbYnu9uLnhmdo
+61LcBQnhkdjyYnyyds8TvsPxrsyjBfnb4QZ/5Hpd29CCb+7v2zCS236xd9bX4TFX
+pE3OY4saLqR2vzhnyv7LX3b6ktXFzlhdkd5/LmtxQ06kxFdy9/2ij/yXXmpSCrUD
+MH1p0YJ3S27GtoP8sVf1xuOtN17v2ejKOXm6ssXx+byMi5zrDZy7p/L4pcxYnib5
+Wu/hspzmwTEpjz54cLX71LEF0fjRnNQZ6xvfuzH44Wzvno6jPzXcDb/qaMl5Pnft
+joH4/PqzEshf+PuZm5cnOqdem7viXH9TdmJ9qOvy9GeeLXX3dhdOuxXY+e13b+0+
+O+WpjkdqR6jbvkX327u1zp9rBpLiKdHZD94ZEs43zo2UxoJH9qVPeOxjT583K9DI
+LGs933+kuqtynrtzVXTy1EmzfDu/uuQ17smnv9/btCJ7nGcsX7jli9RbbUDpWhtP
+cP7649Izb3esv54WHZi8bev1LK3M7fJUbPX0RFwT5pyqv/3LiTvBzOIbmY/HvP2v
+9A7uOLjrcGJ0fsHu7tolx9a/OX5d9fbWqo3DeZsbdrcf2d/ww6EoHf+sZUtZn+Oi
+Mu2Ptj8B
+=9L/P
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hubert
+
+==================================================================
