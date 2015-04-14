@@ -10,3 +10,5 @@ github_username:  hube
 
 # Build settings
 markdown: kramdown
+
+excerpt_separator: <!--more-->
