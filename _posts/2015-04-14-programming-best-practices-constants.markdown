@@ -2,6 +2,7 @@
 layout: post
 title: "Programming Best Practices: Constants"
 date: 2015-04-14T13:56:05+08:00
+comments: true
 author: Hubert Lee
 ---
 The purpose of using a constant is to eliminate the use of *magic numbers*, also
