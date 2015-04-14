@@ -12,3 +12,7 @@ github_username:  hube
 markdown: kramdown
 
 excerpt_separator: <!--more-->
+
+# Disqus support
+disqus_short_name: scubedsoft
+disqus_show_comment_count: false
