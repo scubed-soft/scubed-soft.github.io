@@ -18,3 +18,8 @@ disqus_short_name: scubedsoft
 disqus_show_comment_count: false
 
 twitter_tweet_button: true
+
+# GitHub-provided settings
+highlighter: pygments
+safe: true
+lsi: false
