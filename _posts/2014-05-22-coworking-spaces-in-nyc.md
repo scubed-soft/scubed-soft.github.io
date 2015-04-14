@@ -3,7 +3,7 @@ layout: post
 title: "Coworking Spaces in NYC"
 date: 2014-05-22 10:04:32 -0400
 comments: true
-categories:
+author: Hubert Lee
 ---
 The other day, I visited several co-working spaces in New York City based on
 [this article](http://thenextweb.com/insider/2011/08/17/the-5-coolest-coworking-spaces-in-new-york-city/)

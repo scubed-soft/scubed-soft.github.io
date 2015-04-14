@@ -3,7 +3,7 @@ layout: post
 title: "Scubed Software is Visiting New York!"
 date: 2014-05-18 23:20:12 +0900
 comments: true
-categories:
+author: Hubert Lee
 ---
 From May 18 to July 14, I will be visiting New York City (and
 a few other locations)!
