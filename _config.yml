@@ -16,3 +16,5 @@ excerpt_separator: <!--more-->
 # Disqus support
 disqus_short_name: scubedsoft
 disqus_show_comment_count: false
+
+twitter_tweet_button: true
