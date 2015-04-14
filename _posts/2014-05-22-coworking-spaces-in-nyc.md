@@ -8,7 +8,9 @@ author: Hubert Lee
 The other day, I visited several co-working spaces in New York City based on
 [this article](http://thenextweb.com/insider/2011/08/17/the-5-coolest-coworking-spaces-in-new-york-city/)
 (which I now realize is from 2011). Here's my take (ordered by my preference).
+
 <!--more-->
+
 1. [New Work City](http://nwc.co/)
 
     **Likes**

@@ -14,7 +14,9 @@ their product (and discourage "death by Powerpoint"), the MC is quite good, and
 there's free food!
 
 As usual, there were five startups demoing their products to the audience.
+
 <!--more-->
+
 ### [Basepair](http://www.basepair.io/)
 
 First up was Basepair, demoed by Amit Sinha. Basepair is a SaaS startup
