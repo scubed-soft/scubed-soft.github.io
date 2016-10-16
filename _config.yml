@@ -20,6 +20,6 @@ disqus_show_comment_count: false
 twitter_tweet_button: true
 
 # GitHub-provided settings
-highlighter: pygments
+highlighter: rouge
 safe: true
 lsi: false
